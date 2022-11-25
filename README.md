@@ -1,8 +1,8 @@
-Node.js, 개발환경 구축
+###Node.js, 개발환경 구축
 
-Node.js 특징, 강점, 약점
+##Node.js 특징, 강점, 약점
 
-특징
+#특징
 
 - Node와 비동기성
   - JavaScript라는 언어 수준에서 Event Loop를 활용한 비동기 처리방식
