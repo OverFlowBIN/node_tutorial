@@ -15,7 +15,7 @@ console.log('hello, world')
 const http = require('http')
 
 const server = http.createServer((req, res) => {
-  res.statuscode = 200
+  res.statusCode = 200
   res.end('hello server!')
 })
 
